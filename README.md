@@ -1,9 +1,11 @@
 Welcome to My Data Science and Machine Learning Projects!
+
 👋 Introduction
 
 Hello! I'm a passionate data scientist and machine learning enthusiast. On this GitHub account, you'll find a collection of my projects, ranging from exploratory data analysis and visualization to machine learning model development and deployment.
 
 📂 Projects Overview
+
 Customer-Segmentation-RFM-KMeans
 
 A project focused on customer segmentation using RFM analysis and K-Means clustering. This project demonstrates the process of identifying distinct customer segments to optimize marketing strategies.
